@@ -5,7 +5,7 @@
 # All computations done in backend (analysis.py)
 # Dashboard is instantaneous with no runtime calculations
 
-# Author: Om Gohel
+# Author: Om Gorakhia
 # Student ID: A0318038E
 # Email: e1519898@u.nus.edu / om.g2k01@gmail.com
 # Institution: National University of Singapore (NUS)
@@ -408,7 +408,7 @@ def render_student_info():
     with col1:
         st.markdown("""
         **Student Details:**
-        - **Name:** Om Gohel
+        - **Name:** Om Gorakhia
         - **Student ID:** A0318038E
         - **University:** National University of Singapore (NUS)
         - **Program:** Master of Science in Business Analytics (MSBA)
@@ -511,9 +511,10 @@ def main():
     st.markdown("""
     <div style="text-align: center; color: #6C757D; font-size: 0.8rem; margin-top: 2rem;">
         <p>Generated for NUS DBA 5106 - Business Analytics Course</p>
-        <p>© 2025 Om Gohel | Student ID: A0318038E</p>
+        <p>© 2025 Om Gorakhia | Student ID: A0318038E</p>
     </div>
     """, unsafe_allow_html=True)
 
 if __name__ == '__main__':
+
     main()

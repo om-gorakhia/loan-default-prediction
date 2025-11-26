@@ -1,0 +1,16 @@
+{
+    "Best Model": "GB_LogLoss_2",
+    "Validation AUC": 0.7549634223323769,
+    "Test AUC": 0.7610888891899329,
+    "Optimal Threshold": 0.08699999999999992,
+    "TP": 3502,
+    "FP": 14086,
+    "FN": 946,
+    "TN": 19769,
+    "Sensitivity": 0.7873201438848921,
+    "Specificity": 0.5839314724560626,
+    "Precision": 0.19911303161246305,
+    "F1-Score": 0.31784352877110184,
+    "Accuracy": 0.6075503224290526,
+    "Contextual Loss (Test)": 23546
+}
